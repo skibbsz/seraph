@@ -1,81 +1,81 @@
 [
   {
-    "name": "ruffle",
+    "name": "Ruffle",
     "url": "/apps/ruffle/index.html",
     "image": "/images/thumbnails/ruffle.jpg"
   },
   {
-    "name": "emulatorjs",
+    "name": "EmulatorJS",
     "url": "/apps/emulatorjs/index.html",
     "image": "/images/thumbnails/emulatorjs.jpg"
   },
   {
-    "name": "webgl fluids",
+    "name": "WebGL Fluids",
     "url": "/apps/fluidsim/index.html",
     "image": "/images/thumbnails/fluidsim.jpg"
   },
   {
-    "name": "thirty dollar website",
+    "name": "Thirty Dollar Website",
     "url": "/apps/thirtydollarwebsite/index.html",
     "image": "/images/thumbnails/thirtydollarwebsite.jpg"
   },
   {
-    "name": "windows 11",
+    "name": "Windows 11",
     "url": "/apps/windows11/index.html",
     "image": "/images/thumbnails/windows11.jpg"
   },
   {
-    "name": "turbowarp",
+    "name": "TurboWarp",
     "url": "/apps/turbowarp/index.html",
     "image": "/images/thumbnails/turbowarp.jpg"
   },
   {
-    "name": "turbowarp packager",
+    "name": "TurboWarp Packager",
     "url": "/apps/turbowarppkg/index.html",
     "image": "/images/thumbnails/turbowarppkg.jpg"
   },
   {
-    "name": "turbowarp unpackager",
+    "name": "TurboWarp Unpackager",
     "url": "/apps/turbowarpunpkg/index.html",
     "image": "/images/thumbnails/turbowarpunpkg.jpg"
   },
   {
-    "name": "weavesilk",
+    "name": "WeaveSilk",
     "url": "/apps/weavesilk/index.html",
     "image": "/images/thumbnails/weavesilk.jpg"
   },
   {
-    "name": "webretro",
+    "name": "WebRetro",
     "url": "/apps/webretro/index.html",
     "image": "/images/thumbnails/webretro.jpg"
   },
   {
-    "name": "html coder",
+    "name": "HTML Coder",
     "url": "/apps/htmlcoder/index.html",
     "image": "/images/thumbnails/htmleditor.jpg"
   },
   {
-    "name": "v86",
+    "name": "V86",
     "url": "/apps/v86/index.html",
     "image": "/images/thumbnails/v86.jpg"
   },
   {
-    "name": "calculator",
+    "name": "Calculator",
     "url": "/apps/calculator/index.html",
     "image": "/images/thumbnails/calculator.jpg"
   },
   {
-    "name": "etch a sketch",
+    "name": "Etch A Sketch",
     "url": "/apps/etchasketch/index.html",
     "image": "/images/thumbnails/etchasketch.jpg"
   },
   {
-    "name": "zip opener",
+    "name": "ZIP Opener",
     "url": "/apps/zipopener/index.html",
     "image": "/images/thumbnails/zipopener.jpg"
   },
   {
-    "name": "godoblocks",
+    "name": "GodoBlocks",
     "url": "/apps/godoblocks/index.html",
     "image": "/images/thumbnails/godoblocks.jpg"
   }
